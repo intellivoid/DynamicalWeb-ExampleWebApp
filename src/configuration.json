@@ -33,6 +33,6 @@
     {"type": "ppm", "name": "bootstrap", "source": "com.getbootstrap.bootstrap==latest", "path": "bootstrap"}
   ],
   "router": [
-    {"method": ["GET"], "path": "", "page": "index", "params": []},
+    {"method": ["GET"], "path": "", "page": "index", "params": []}
   ]
 }

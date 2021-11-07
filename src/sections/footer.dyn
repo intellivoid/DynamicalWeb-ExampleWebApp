@@ -1,3 +1,3 @@
 <footer class="pt-5 my-5 text-muted border-top">
-    Created by the Bootstrap team &middot; &copy; 2021
+    Created by Intellivoid Technologies 2017-<?PHP \DynamicalWeb\Html::print(date('Y')); ?>
 </footer>

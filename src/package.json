@@ -30,20 +30,12 @@
     },
     "components": [],
     "files": [
-        "assets/images/me-weeb-shit-nya-3-39415496.png",
-        "assets/javascript/another_test.js.dyn",
+        "assets/css/starter-template.css",
         "configuration.json",
         "localization/en.json",
-        "localization/zh.json",
         "package.json",
-        "pages/debug/contents.dyn",
         "pages/index/contents.dyn",
-        "pages/index/css/test.css.dyn",
-        "pages/index/javascript/console.js.dyn",
-        "pages/index/markdown/lorem.md.dyn",
-        "pages/index/scripts/time.dyn",
-        "pages/index/sections/copyright.dyn",
-        "pages/index/sections/header.dyn",
-        "pages/storage/contents.dyn"
+        "sections/footer.dyn",
+        "sections/header.dyn"
     ]
 }
